@@ -1,0 +1,15 @@
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\bin\Debug\net6.0\EstacionaAi.exe
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\bin\Debug\net6.0\EstacionaAi.deps.json
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\bin\Debug\net6.0\EstacionaAi.runtimeconfig.json
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\bin\Debug\net6.0\EstacionaAi.dll
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\bin\Debug\net6.0\EstacionaAi.pdb
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\EstacionaAi.csproj.AssemblyReference.cache
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\EstacionaAi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\EstacionaAi.AssemblyInfoInputs.cache
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\EstacionaAi.AssemblyInfo.cs
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\EstacionaAi.csproj.CoreCompileInputs.cache
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\EstacionaAi.dll
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\refint\EstacionaAi.dll
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\EstacionaAi.pdb
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\EstacionaAi.genruntimeconfig.cache
+C:\Users\lucia\documentos\POO\Estacionamento\EstacionaAi\obj\Debug\net6.0\ref\EstacionaAi.dll
